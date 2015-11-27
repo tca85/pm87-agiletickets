@@ -73,6 +73,7 @@ public class EstabelecimentoTest {
 		estabelecimentos.adicioneEstabelecimentoComEstacionamento(false);
 
 		estabelecimentos.ultimaLinhaDeveTerEstacionamento(false);
+		//estabelecimentos.ultimaLinhaDeveTerEstacionamento(true);
 	}
 	
 }
